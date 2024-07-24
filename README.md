@@ -5,6 +5,7 @@ I am passionate about coding, cooking, and continuously expanding my knowledge a
 
 ## Contact
 - **Discord:** tommykenton
+- **Twitter (X):** @tommykenton
 
 ## Pronouns
 - He/Him
