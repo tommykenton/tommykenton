@@ -16,8 +16,7 @@ Here’s a quick overview of the technologies I work with:
 - **Frontend:** Next.js, React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Sass
 - **Backend:** Node.js, Express, RESTful APIs, GraphQL, PostgreSQL
 - **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Firebase, Supabase
-- **Testing:** Jest, React Testing Library
-- **Other:** Webpack, Styled-Components, Serverless Functions
+- **Other:** Webpack, Styled-Components, Serverless Functions, Tauri, Electron
 
 ## Projects
 Here are some of the projects I've worked on:
