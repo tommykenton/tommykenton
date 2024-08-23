@@ -15,7 +15,16 @@ Here’s a quick overview of the technologies I work with:
 - **Testing:** Jest, React Testing Library
 - **Other:** Webpack, Styled-Components, Serverless Functions
 
+## Projects
+Here are some of the projects I've worked on:
+
+**[kentoncreators.com](https://kentoncreators.com)**  
+Kenton Creators offers a cutting-edge service that allows you to create a fully customized Discord server tailored to your unique theme in seconds. Experience limitless customization options and build a server that perfectly fits your vision, making it the ideal solution for creating a highly personalized online community with ease.
+
+**[tommykenton.com](https://tommykenton.com)**  
+My portfolio showcases a beautifully designed space that highlights my expertise in web design and UI. With a clean, modern layout, it reflects my passion for creating visually appealing, user-friendly interfaces. You'll also find my contact details for easy communication.
+
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/tommy-kenton-6a8321320)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Me-7289DA)](https://discord.com/users/1176200095088254981)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Me-7289DA)](https://discord.com/users/your-discord-id)
