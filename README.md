@@ -4,7 +4,9 @@ Welcome to my GitHub profile!
 I'm Tommy Kenton, a self-taught Full Stack Web Developer with a strong passion for creating dynamic, responsive, and user-friendly websites. My primary development framework is Next.js, paired with TypeScript, enabling me to build scalable and maintainable web applications. Here, you'll find a showcase of my public projects and websites. Feel free to explore and see what I've been working on!
 
 ## About Me
-My journey as a web developer began out of a love for problem-solving and creativity. Over the years, I’ve refined my skills through various projects, ranging from small personal websites to more complex applications. I'm always eager to learn new technologies and push the boundaries of what’s possible on the web, striving to deliver high-quality work in everything I do.
+I started coding on an old HP laptop using code.org, where I spent months building a chat app with databases and dynamic rendering, though it never got released. That experience sparked my passion for coding, and I quickly moved on to HTML, CSS, and JavaScript.
+
+After mastering the basics, I dove into Express.js and have spent over two years creating web apps, even turning them into desktop applications with Tauri and Electron. Now, with over 20 programming languages under my belt, I'm focused on building new startups for myself and others, always pushing the boundaries of what’s possible on the web.
 
 ## Tech Stack
 Here’s a quick overview of the technologies I work with:
