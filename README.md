@@ -18,10 +18,10 @@ Here’s a quick overview of the technologies I work with:
 ## Projects
 Here are some of the projects I've worked on:
 
-**[kentoncreators.com](https://kentoncreators.com){:target="_blank"}**  
+**[kentoncreators.com](https://kentoncreators.com)**  
 Kenton Creators lets you build a fully customized Discord server in seconds. Tailor every detail to fit your unique theme, creating the perfect online community with ease and limitless customization options.
 
-**[tommykenton.com](https://tommykenton.com){:target="_blank"}**  
+**[tommykenton.com](https://tommykenton.com)**  
 My portfolio showcases a beautifully designed space that highlights my expertise in web design and UI. With a clean, modern layout, it reflects my passion for creating visually appealing, user-friendly interfaces.
 
 ## Connect with Me
