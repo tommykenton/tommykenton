@@ -6,7 +6,9 @@ I'm Tommy Kenton, a self-taught Full Stack Web Developer with a strong passion f
 ## About Me
 I started coding on an old HP laptop using code.org, where I spent months building a chat app with databases and dynamic rendering, though it never got released. That experience sparked my passion for coding, and I quickly moved on to HTML, CSS, and JavaScript.
 
-After mastering the basics, I dove into Express.js and have spent over two years creating web apps, even turning them into desktop applications with Tauri and Electron. Now, with over 20 programming languages under my belt, I'm focused on building new startups for myself and others, always pushing the boundaries of what’s possible on the web.
+After mastering the basics, I dove into Express.js and spent over two years creating web apps, even turning them into desktop applications with Tauri and Electron. More recently, I've embraced Next.js and TypeScript to build more modular and scalable websites, allowing me to create high-performance web applications with ease.
+
+Now, with over 20 programming languages under my belt, I'm focused on building new startups for myself and others, always pushing the boundaries of what’s possible on the web.
 
 ## Tech Stack
 Here’s a quick overview of the technologies I work with:
