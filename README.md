@@ -1,33 +1,35 @@
 # Hello 👋
 Welcome to my GitHub profile!
 
-I'm Tommy Kenton, a self-taught Full Stack Web Developer with a strong passion for creating dynamic, responsive, and user-friendly websites. My primary development framework is Next.js, paired with TypeScript, enabling me to build scalable and maintainable web applications. Here, you'll find a showcase of my public projects and websites. Feel free to explore and see what I've been working on!
+I'm **Tommy Kenton**, a self-taught Full Stack Web & Software Developer passionate about building dynamic, responsive, and user-friendly web applications. My primary framework is **Next.js** with **TypeScript**, which allows me to create scalable and maintainable projects.  
+
+Here, you'll find a collection of my public projects, experiments, and websites. Feel free to explore and see what I've been working on!
+
 
 ## About Me
-I started coding on an old HP laptop using code.org, where I spent months building a chat app with databases and dynamic rendering, though it never got released. That experience sparked my passion for coding, and I quickly moved on to HTML, CSS, and JavaScript.
+I’m a self-employed British web and software developer, passionate about building startups and helping the community. I began coding on **Code.org**, quickly moving into **HTML, CSS, and JavaScript**, then expanded into **Express.js**, desktop apps with **Tauri** and **Electron**, and now focus on **Next.js** and **TypeScript**. With experience in over **20 programming languages**, I love pushing the boundaries of web development.
 
-After mastering the basics, I dove into Express.js and spent over two years creating web apps, even turning them into desktop applications with Tauri and Electron. More recently, I've embraced Next.js and TypeScript to build more modular and scalable websites, allowing me to create high-performance web applications with ease.
 
-Now, with over 20 programming languages under my belt, I'm focused on building new startups for myself and others, always pushing the boundaries of what’s possible on the web.
 
 ## Tech Stack
-Here’s a quick overview of the technologies I work with:
+Here’s a quick snapshot of the technologies I work with:
 
-- **Frontend:** Next.js, React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Sass
-- **Backend:** Node.js, Express, RESTful APIs, GraphQL, PostgreSQL
-- **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Firebase, Supabase, Open AI
-- **Other:** Webpack, Styled-Components, Serverless Functions, Tauri, Electron
+**Frontend:** Next.js, React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Sass  
+**Backend:** Node.js, Express, RESTful APIs, GraphQL, PostgreSQL  
+**Tools & Platforms:** Git, GitHub, Vercel, Netlify, Firebase, Supabase, OpenAI  
+**Other:** Webpack, Styled-Components, Serverless Functions, Tauri, Electron  
+
 
 ## Projects
-Here are some of the projects I've worked on:
+Here are a few of the projects I’ve built:
 
-**[kentoncreators.com](https://kentoncreators.com)** **(Discontinued due to updates in the Discord API)**  
-Kenton Creators lets you build a fully customized Discord server in seconds using AI. Customize every detail to match your unique theme and create the perfect online community effortlessly. Simply provide your prompt, connect your Discord account, and once you’ve finished editing and refining, your server is ready to go and automatically added to your account.
+**[kentoncreators.com](https://kentoncreators.com)** *(Discontinued due to Discord API updates)*  
+An AI-powered tool that allowed users to build fully customized Discord servers in seconds. Simply provide your prompt, connect your Discord account, and the server would be automatically set up with your customizations.
 
 **[tommykenton.com](https://tommykenton.com)**  
-My portfolio showcases a beautifully designed space that highlights my expertise in web design and UI. With a clean, modern layout, it reflects my passion for creating visually appealing, user-friendly interfaces.
+My personal portfolio, showcasing my web design and UI work. Built with a clean, modern design, it reflects my passion for visually appealing, user-friendly interfaces.
 
-## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)
+## Connections
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)  
 [![Discord](https://img.shields.io/badge/Discord-Join%20Me-7289DA)](https://discord.com/users/your-discord-id)
