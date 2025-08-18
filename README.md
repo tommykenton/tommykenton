@@ -1,5 +1,4 @@
-# Hello 👋
-Welcome to my GitHub profile!
+# Hi, I’m Tommy Kenton 👋
 
 I'm **Tommy Kenton**, a self-taught Full Stack Web & Software Developer passionate about building dynamic, responsive, and user-friendly web applications. My primary framework is **Next.js** with **TypeScript**, which allows me to create scalable and maintainable projects.  
 
@@ -17,7 +16,7 @@ Here’s a quick snapshot of the technologies I work with:
 **Frontend:** Next.js, React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Sass  
 **Backend:** Node.js, Express, RESTful APIs, GraphQL, PostgreSQL  
 **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Firebase, Supabase, OpenAI  
-**Other:** Webpack, Styled-Components, Serverless Functions, Tauri, Electron  
+**Other:** Webpack, Styled-Components, Serverless Functions, Tauri, Electron, Wix  
 
 
 ## Projects
