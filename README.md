@@ -15,14 +15,14 @@ Here’s a quick overview of the technologies I work with:
 
 - **Frontend:** Next.js, React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Sass
 - **Backend:** Node.js, Express, RESTful APIs, GraphQL, PostgreSQL
-- **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Firebase, Supabase
+- **Tools & Platforms:** Git, GitHub, Vercel, Netlify, Firebase, Supabase, Open AI
 - **Other:** Webpack, Styled-Components, Serverless Functions, Tauri, Electron
 
 ## Projects
 Here are some of the projects I've worked on:
 
 **[kentoncreators.com](https://kentoncreators.com)**  
-Kenton Creators lets you build a fully customized Discord server in seconds. Tailor every detail to fit your unique theme, creating the perfect online community with ease and limitless customization options.
+Kenton Creators lets you build a fully customized Discord server in seconds using AI. Customize every detail to match your unique theme and create the perfect online community effortlessly. Simply provide your prompt, connect your Discord account, and once you’ve finished editing and refining, your server is ready to go and automatically added to your account.
 
 **[tommykenton.com](https://tommykenton.com)**  
 My portfolio showcases a beautifully designed space that highlights my expertise in web design and UI. With a clean, modern layout, it reflects my passion for creating visually appealing, user-friendly interfaces.
