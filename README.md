@@ -21,7 +21,7 @@ Here’s a quick overview of the technologies I work with:
 ## Projects
 Here are some of the projects I've worked on:
 
-**[kentoncreators.com](https://kentoncreators.com)**  
+**[kentoncreators.com](https://kentoncreators.com)**  **Discontinued due to changes in the Discord API**
 Kenton Creators lets you build a fully customized Discord server in seconds using AI. Customize every detail to match your unique theme and create the perfect online community effortlessly. Simply provide your prompt, connect your Discord account, and once you’ve finished editing and refining, your server is ready to go and automatically added to your account.
 
 **[tommykenton.com](https://tommykenton.com)**  
