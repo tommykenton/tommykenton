@@ -30,5 +30,6 @@ My personal portfolio, showcasing my web design and UI work. Built with a clean,
 
 
 ## Connections
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/your-linkedin-profile)  
-[![Discord](https://img.shields.io/badge/Discord-Join%20Me-7289DA)](https://discord.com/users/your-discord-id)
+[![X](https://img.shields.io/badge/X-Follow-blue)](https://twitter.com/tommy_kenton)  
+[![Discord](https://img.shields.io/badge/Discord-Join%20Me-7289DA)](https://discord.com/users/1176200095088254981)
+
