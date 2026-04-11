@@ -22,6 +22,9 @@ Here’s a quick snapshot of the technologies I work with:
 ## Projects
 Here are a few of the projects I’ve built:
 
+**[guildgen.com](https://guildgen.com)** *(The new version of kentoncreators.com)*  
+An AI-powered tool that allows users to build fully customized Discord servers in seconds. Simply provide your prompt, connect your Discord account, and the server would be automatically set up with your customizations.
+
 **[kentoncreators.com](https://kentoncreators.com)** *(Discontinued due to Discord API updates)*  
 An AI-powered tool that allowed users to build fully customized Discord servers in seconds. Simply provide your prompt, connect your Discord account, and the server would be automatically set up with your customizations.
 
