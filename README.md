@@ -31,9 +31,6 @@ An AI-powered tool that allowed users to build fully customized Discord servers 
 **[tommykenton.com](https://tommykenton.com)**  
 My personal portfolio, showcasing my web design and UI work. Built with a clean, modern design, it reflects my passion for visually appealing, user-friendly interfaces.
 
-**GitHub**  
-View my open-source projects, code experiments, and development work on GitHub. It includes projects across web development, UI design, SaaS tools, and AI-powered platforms.
-
 ## Connections
 [![X](https://img.shields.io/badge/X-Follow-blue)](https://twitter.com/tommy_kenton)  
 [![Discord](https://img.shields.io/badge/Discord-Join%20Me-7289DA)](https://discord.com/users/1176200095088254981)
