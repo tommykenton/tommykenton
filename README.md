@@ -1,6 +1,6 @@
-# Hi, I’m Tommy Kenton 👋
+# Hi, I’m Tommy Kingsleigh 👋
 
-I'm **Tommy Kenton**, a self-taught Full Stack Web & Software Developer passionate about building dynamic, responsive, and user-friendly web applications. My primary framework is **Next.js** with **TypeScript**, which allows me to create scalable and maintainable projects.  
+I'm **Tommy Kingsleigh**, a self-taught Full Stack Web & Software Developer passionate about building dynamic, responsive, and user-friendly web applications. My primary framework is **Next.js** with **TypeScript**, which allows me to create scalable and maintainable projects.  
 
 Here, you'll find a collection of my public projects, experiments, and websites. Feel free to explore and see what I've been working on!
 
@@ -28,10 +28,6 @@ An AI-powered platform that allows users to build fully customized Discord serve
 **[guildgen.com](https://guildgen.com)** *(Previous version of ServerGPT)*  
 An AI-powered tool that allowed users to build fully customized Discord servers in seconds. Users could provide a prompt, connect their Discord account, and have their server automatically generated and configured.
 
-**[tommykenton.com](https://tommykenton.com)**  
+**[tommykenton.com](https://tommykenton.com)** *(My old name, yet to be updated)*  
 My personal portfolio, showcasing my web design and UI work. Built with a clean, modern design, it reflects my passion for visually appealing, user-friendly interfaces.
-
-## Connections
-[![X](https://img.shields.io/badge/X-Follow-blue)](https://twitter.com/tommy_kenton)  
-[![Discord](https://img.shields.io/badge/Discord-Join%20Me-7289DA)](https://discord.com/users/1176200095088254981)
 
