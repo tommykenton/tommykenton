@@ -22,15 +22,17 @@ Here’s a quick snapshot of the technologies I work with:
 ## Projects
 Here are a few of the projects I’ve built:
 
-**[guildgen.com](https://guildgen.com)** *(The new version of kentoncreators.com)*  
-An AI-powered tool that allows users to build fully customized Discord servers in seconds. Simply provide your prompt, connect your Discord account, and the server would be automatically set up with your customizations.
+**[servergpt.ai](https://servergpt.ai)** *(The new version of guildgen.com)*  
+An AI-powered platform that allows users to build fully customized Discord servers in seconds. Simply provide your prompt, connect your Discord account, and ServerGPT automatically creates and sets up your server with your chosen roles, channels, permissions, and customizations.
 
-**[kentoncreators.com](https://kentoncreators.com)** *(Discontinued due to Discord API updates)*  
-An AI-powered tool that allowed users to build fully customized Discord servers in seconds. Simply provide your prompt, connect your Discord account, and the server would be automatically set up with your customizations.
+**[guildgen.com](https://guildgen.com)** *(Previous version of ServerGPT)*  
+An AI-powered tool that allowed users to build fully customized Discord servers in seconds. Users could provide a prompt, connect their Discord account, and have their server automatically generated and configured.
 
 **[tommykenton.com](https://tommykenton.com)**  
 My personal portfolio, showcasing my web design and UI work. Built with a clean, modern design, it reflects my passion for visually appealing, user-friendly interfaces.
 
+**GitHub**  
+View my open-source projects, code experiments, and development work on GitHub. It includes projects across web development, UI design, SaaS tools, and AI-powered platforms.
 
 ## Connections
 [![X](https://img.shields.io/badge/X-Follow-blue)](https://twitter.com/tommy_kenton)  
